@@ -20,7 +20,7 @@ the deploy pipeline and the marketing site. French (native) · English.
   seniors spot phone scams.
 - Client websites through my studio, **[JBD.dev](https://jordanbeckerds.github.io/jbd-studio/)**.
 
-### How I run things
+### How I run things ([homelab-infra](https://github.com/JordanBeckerds/homelab-infra))
 
 - My own **Debian server** hosts about 15 Docker Compose stacks: PHP, Node, Python, MySQL and MariaDB.
 - Every site is published through **Cloudflare Tunnels**, with no open inbound ports. Previews are routed by
